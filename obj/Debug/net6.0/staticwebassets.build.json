@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/OgLuzMqrJqJ0JkN4YxmPBlgWmD4uXnritOqenyUkuI=",
+  "Source": "dotnet6samplewebapp",
+  "BasePath": "_content/dotnet6samplewebapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
